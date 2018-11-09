@@ -13,9 +13,9 @@ class Game
   ]
 
   def initialize (board, player_1, player_2)
-    @board = board
+    @board = []
     @player_1 = player_1
     @player_2 = player_2
   end
-  
+
 end
